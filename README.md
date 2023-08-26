@@ -2,6 +2,17 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Tecnologias Utilizadas
+
+- React Js
+- Axios
+- React Query
+- Typescript
+- React Boostrap
+- React Icons
+- MD5
+- Ract Rooter DOM
+
 ## Available Scripts
 
 In the project directory, you can run:
