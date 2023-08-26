@@ -1,0 +1,17 @@
+.custom-text-size {
+    font-size: 3em;
+    font-weight: bold;
+}
+
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.color-bg-nav{
+    background-color: #700A16 ;
+}
+
+.nav-items{
+    align-items: center;
+    
+}
