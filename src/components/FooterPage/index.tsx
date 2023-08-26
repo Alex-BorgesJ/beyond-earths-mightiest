@@ -34,6 +34,7 @@ export default function FooterPage() {
             size="lg"
             className="text-danger m-1"
             href="https://youtu.be/ZjCGYo7LSUk"
+            target="_blank"
             role="button"
           >
             <FaYoutube />
